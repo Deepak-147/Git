@@ -1,2 +1,2 @@
-# Udemy-Git
+# Git
 Basics of GIT version control
